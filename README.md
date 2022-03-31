@@ -5,9 +5,8 @@
 -🌱Studying Typescript
 
 -😀Pronouns: "he" | "him"
-
 <div align="center">
-  <a href="https://github.com/Melo453" style="display:flex">
+  <a href="https://github.com/Melo453">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Melo453&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melo453&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -18,7 +17,7 @@
   <img align="center" alt="Fabri-md" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> 
   <img align="center" alt="Fabri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fabri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Fabri-pic" height="150" style="border-radius:50px;" src="https://ibb.co/K6MgGMn">
+  <img align="right" alt="Fabri-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/xhpbspZ/foto.png">
 </div>
   
   ##
