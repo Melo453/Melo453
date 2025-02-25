@@ -2,7 +2,9 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-***About me***   <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"> 
+<h3 style="border-bottom: none;">About me
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px">
+</h3>
 
 🏆 Android Developer • Backend Developer • Web Developer | Java | Go | Spring Boot
 
