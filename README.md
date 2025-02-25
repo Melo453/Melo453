@@ -12,7 +12,7 @@ I currently work as an Android Developer, but I'm focusing on backend developmen
   - Docker
   - AWS
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, I love listening to music, playing videogames, reading manga, hitting the gym, and solving Rubik's cubes.
+- Outside tech, 🎵 I love listening to music, 🎮 playing videogames, 📖 reading manga, 🏋️ hitting the gym, and 🧩 solving Rubik's cubes.
 - 📫 Reach out to me at: <a href="fabrimeloni1@gmail.com">fabrimeloni1@gmail.com</a>
 - 😀 Pronouns: "he" | "him"
 
