@@ -1,8 +1,8 @@
 <h1 align="center"><b>Hi , I'm Fabrizio Meloni </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+***About me***   <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"> 
 
 🏆 Android Developer • Backend Developer • Web Developer | Java | Go | Spring Boot
 
@@ -16,15 +16,7 @@ I currently work as an Android Developer, but I'm focusing on backend developmen
 - 📫 Reach out to me at: <a href="fabrimeloni1@gmail.com">fabrimeloni1@gmail.com</a>
 - 😀 Pronouns: "he" | "him"
 
-<br>
-<div align="center">
-  <a href="https://github.com/Melo453">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Melo453&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melo453&layout=compact&langs_count=10&theme=dark"/>
-</div>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Skills Include</b>
-
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
@@ -41,7 +33,7 @@ I currently work as an Android Developer, but I'm focusing on backend developmen
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 </span>
 
-
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <div> 
   
   <a href="https://www.instagram.com/fabrimeloni_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -49,5 +41,12 @@ I currently work as an Android Developer, but I'm focusing on backend developmen
   <a href = "mailto:fabrimeloni1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fabrizio-meloni-4126711b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- 
+</div>
+
+<h2> Github stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> </h2>
+<div align="center">
+  <a href="https://github.com/Melo453">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Melo453&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melo453&layout=compact&langs_count=10&theme=dark"/>
+  <img height="180em" src="https://git-hub-streak-stats.vercel.app?user=Melo453&theme=dark"/>
 </div>
