@@ -49,7 +49,7 @@ I currently work as an Android Developer, but I'm focusing on backend developmen
 <h2> Github stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> </h2>
 <div align="center">
   <a href="https://github.com/Melo453">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Melo453&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melo453&layout=compact&langs_count=10&theme=dark"/>
-  <img height="180em" src="https://git-hub-streak-stats.vercel.app?user=Melo453&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Melo453&theme=react&show_icons=true&include_all_commits=true" alt="Melo453"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melo453&theme=react&layout=compact" alt="Melo453"/>
+  <img height="180em" src="https://git-hub-streak-stats.vercel.app?user=Melo453&theme=react"/>
 </div>
